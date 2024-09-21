@@ -1,9 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="第 1 页" id="wvcm-iZDjbkusKjQKTrW">
-    <mxGraphModel>
+    <mxGraphModel dx="889" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="302" y="15" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-1" value="确定项目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="clGv2IKDjnUP-FdFEpwZ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-2" value="确定游戏类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="clGv2IKDjnUP-FdFEpwZ-4" target="clGv2IKDjnUP-FdFEpwZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-4" value="确定系统和基础的策划案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-5" value="美术资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-9" value="搭建框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-12" value="前后端网络通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="260" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-13" value="后端跟数据库的对接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="310" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-15" value="配置文件读取保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="360" width="97" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
