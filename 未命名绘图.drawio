@@ -39,6 +39,15 @@
         <mxCell id="clGv2IKDjnUP-FdFEpwZ-15" value="配置文件读取保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.5" y="360" width="97" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-16" value="搭建基础系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-17" value="常见的业务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="clGv2IKDjnUP-FdFEpwZ-18" value="战斗系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
