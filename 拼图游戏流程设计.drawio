@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Core/1.94.265.400 QQBrowser/12.7.5768.400" version="24.7.16">
   <diagram name="第 1 页" id="j0muyT8Vyg4-cuPNiJBW">
-    <mxGraphModel>
+    <mxGraphModel dx="1394" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-1" value="图鉴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-2" value="游戏设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-4" value="关卡设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-5" value="游戏设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-8" value="限时和步数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-9" value="广告点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-10" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-11" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-12" value="图鉴解锁" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-14" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGQ5NYxBEL4J2nhpWlrO-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
