@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="第 1 页" id="hm-CHwTsg51tOjG7Y1A5">
-    <mxGraphModel>
+    <mxGraphModel dx="889" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CsO0Q2ZgVDpuA4CS_lrl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="CsO0Q2ZgVDpuA4CS_lrl-1" target="CsO0Q2ZgVDpuA4CS_lrl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsO0Q2ZgVDpuA4CS_lrl-1" value="想做的事&lt;div&gt;1.学完买的课程&lt;/div&gt;&lt;div&gt;2.总结学的做的业务和能力&lt;/div&gt;&lt;div&gt;3.整理简历，查缺补漏，准备机会&lt;/div&gt;&lt;div&gt;4.谈个女朋友&lt;/div&gt;&lt;div&gt;5.做好小游戏，做成副业&lt;/div&gt;&lt;div&gt;6.开扩公众号（情感，旅游，小说推文（老书虫了，要利用起来，慢慢自己也写小说看看））&lt;/div&gt;&lt;div&gt;7.练字&lt;/div&gt;&lt;div&gt;8.学习看股票看市场&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CsO0Q2ZgVDpuA4CS_lrl-2" value="正在做的事&lt;div&gt;1.课程还有一半&lt;/div&gt;&lt;div&gt;2.女朋友正在追&lt;/div&gt;&lt;div&gt;3.在走小游戏流程&lt;/div&gt;&lt;div&gt;4.总结没有很到位，思考不够思路，把项目开发中遇到的问题都想一想，列一列&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CsO0Q2ZgVDpuA4CS_lrl-3" value="2024/10/20 目前优先级高的事&lt;div&gt;1.总结所学，看看怎么突破&lt;/div&gt;&lt;div&gt;2.课程要速度学完，跟着总结一起走，跟工作中相互对应&lt;/div&gt;&lt;div&gt;3.看看引擎开发流程，怎么封装引擎的，有哪些问题，他们是怎么解决的&lt;/div&gt;&lt;div&gt;4.维持联系，看看能不能关系进一步&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="230" y="520" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CsO0Q2ZgVDpuA4CS_lrl-6" value="目前的状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="120" height="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
